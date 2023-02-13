@@ -15,10 +15,10 @@ public class EXERCISE_4 : MonoBehaviour
    void Start()
    {
         result = start;
-       while (result <= end) //arreglar y el paso comprobar elmnd
+       while (start <= 27) 
        {
           Multiples();
-            start++; 
+          start++; 
        }
 
    }
@@ -33,6 +33,7 @@ public class EXERCISE_4 : MonoBehaviour
        
    }
   
+    //no entiendo nada ayudaaaaa
 
 
 }

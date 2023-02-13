@@ -10,10 +10,8 @@ public class EXERCISE_5 : MonoBehaviour
 
     public int[] numbers = { 1, 2, 3, 4, 5 };
     private int otherNum;
-    private void Start()
-    {
-        
-    }
+    
+   //foreach (int numero in numbers)
 
 
 }
