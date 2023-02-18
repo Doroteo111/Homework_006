@@ -443,6 +443,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6e571c8617f0e3449842cdc372dce71, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  numbers: 0100000002000000030000000400000005000000
 --- !u!65 &1266770647
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -659,11 +660,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1529624972}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9224867ca41c65e4da2584262eb0c649, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  start: 3
+  end: 27
 --- !u!65 &1529624974
 BoxCollider:
   m_ObjectHideFlags: 0

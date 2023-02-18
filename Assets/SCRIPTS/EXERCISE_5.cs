@@ -10,8 +10,17 @@ public class EXERCISE_5 : MonoBehaviour
 
     public int[] numbers = { 1, 2, 3, 4, 5 };
     private int otherNum;
-    
-   //foreach (int numero in numbers)
-
-
+   
+    private void Start()
+    {
+        foreach (int number in numbers)
+        {
+            int sum = 1;
+            otherNum = sum++;
+            Debug.Log(otherNum);
+        }
+        
+    }
+    //estoy muy perdido D:
+   
 }

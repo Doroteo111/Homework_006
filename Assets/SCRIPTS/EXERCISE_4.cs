@@ -33,7 +33,8 @@ public class EXERCISE_4 : MonoBehaviour
        
    }
   
-    //no entiendo nada ayudaaaaa
+    //no entiendo nada ayudaaaaa, los bucles infinitos aaa
+    //no imprime :(
 
 
 }
